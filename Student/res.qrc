@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.jpg.jpg</file>
+        <file>user.jpg.jpg</file>
+        <file>twohand.jpg</file>
+        <file>IMG_5959.JPG</file>
+        <file>IMG_5008.JPG</file>
+        <file>DSCF5245.JPG</file>
+        <file>myapp.icns</file>
+    </qresource>
+</RCC>
